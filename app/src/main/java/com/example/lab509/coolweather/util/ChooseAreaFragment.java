@@ -70,10 +70,6 @@ public class ChooseAreaFragment extends Fragment {
     *选中的城市
      */
     private City selectedCity;
-    /*
-    *选中的县
-     */
-    private Province selectedCounty;
 
     /*
     *当前选中的级别
