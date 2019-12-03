@@ -1,4 +1,4 @@
-package com.example.lab509.coolweather.util;
+package com.example.lab509.coolweather;
 
 import android.app.Fragment;
 import android.app.ProgressDialog;
